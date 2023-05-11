@@ -1,7 +1,6 @@
 
 ## Hey 👋, I'm [Alireza Mohammadzadeh](https://github.com/AlirezaMohammadzadehjag/)
 ## 🌐 Socials:
-[![telegram](t.me/peaky_jag)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alirezaMohammadzadehJag/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/peakyjag/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://www.twitter.com/Alireza_jag) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/AlirezaMohammadzadehjag) 
 
 # 💻 Tech Stack:
